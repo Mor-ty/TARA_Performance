@@ -1,0 +1,10 @@
+playwright
+fastapi
+uvicorn
+haralyzer
+requests
+pydantic
+python-multipart
+google-generativeai
+transformers
+
